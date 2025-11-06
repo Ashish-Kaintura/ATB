@@ -56,7 +56,7 @@ export default function Footer() {
                         </li>
                         <li className="flex items-start gap-3">
                             <Mail className="w-5 h-5 text-blue-400 mt-0.5" />
-                            ticketbookingairlines@gmail.com
+                            Support@airlinesticketbooking.com
                         </li>
                         <li className="flex items-start gap-3">
                             <MapPin className="w-5 h-5 text-blue-400 mt-0.5" />
@@ -100,7 +100,7 @@ export default function Footer() {
 
             {/* Bottom Bar */}
             <div className="border-t border-gray-700 mt-10 pt-6 text-center text-sm text-gray-500">
-                © {new Date().getFullYear()} Air Travels Buddy. All rights reserved
+                © {new Date().getFullYear()} Airlines Ticket Booking. All rights reserved
             </div>
         </footer>
     );

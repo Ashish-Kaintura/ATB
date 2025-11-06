@@ -106,7 +106,7 @@ export default function ExploreDestinations() {
             <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6 max-w-6xl mx-auto px-6">
                 {continents.map((item, i) => (
                     <a
-                        href={`https://www.fareslist.com${item.link}`}
+                        href={`#`}
                         key={i}
                         className="relative group rounded-2xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-500"
                     >
