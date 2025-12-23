@@ -28,13 +28,13 @@ export default function Navbar() {
                             <img
                                 className='h-12 md:h-14'
                                 src="https://i.postimg.cc/TP6w89Pc/ATB-LOGO-PNG.png"
-                                alt="Air Travel Booking Logo"
+                                alt="Airlines Ticket Booking Logo"
                             />
                         </a>
                     </div>
 
                     {/* 2. Primary Navigation (Desktop) */}
-                    <nav className="hidden lg:flex space-x-6 xl:space-x-8 items-center">
+                    {/* <nav className="hidden lg:flex space-x-6 xl:space-x-8 items-center">
                         {navLinks.map((link) => (
                             <a
                                 key={link.name}
@@ -42,11 +42,11 @@ export default function Navbar() {
                                 className="text-gray-700 font-medium text-base hover:text-teal-600 transition-colors relative group"
                             >
                                 {link.name}
-                                {/* Underline hover effect */}
+                                
                                 <span className="absolute left-0 bottom-[-5px] w-0 h-0.5 bg-teal-600 transition-all duration-300 group-hover:w-full"></span>
                             </a>
                         ))}
-                    </nav>
+                    </nav> */}
 
                     {/* 3. Call to Action & Mobile Button */}
                     <div className="flex items-center gap-4">

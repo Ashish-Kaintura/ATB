@@ -39,7 +39,7 @@ export default function SocialsSection() {
 
             <div className="relative z-10 container mx-auto px-6 lg:px-16 text-center">
                 <h2 className="text-3xl font-bold text-gray-900 mb-2">
-                    Why Travelers Choose Air Travel Booking
+                    Why Travelers Choose Airlines Ticket Booking
 
                 </h2>
                 <p className="text-gray-600 mb-12">

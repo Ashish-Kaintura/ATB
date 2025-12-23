@@ -47,7 +47,7 @@ export default function AboutPage() {
                         variants={itemVariants}
                         className='text-xl max-w-3xl mx-auto'
                     >
-                        At Air Travel Booking, we are dedicated to making your dream vacation an affordable reality.
+                        At Airlines Ticket Booking, we are dedicated to making your dream vacation an affordable reality.
                     </motion.p>
                 </div>
             </div>
@@ -60,7 +60,7 @@ export default function AboutPage() {
                         className="text-center mb-12"
                     >
                         <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-                            The Air Travel Booking Story
+                            The Airlines Ticket Booking Story
                         </h2>
                         <p className="text-lg text-gray-600 max-w-4xl mx-auto">
                             Born from a passion for travel and a commitment to affordability, we strive to remove the financial barriers to exploring the world.
@@ -73,13 +73,13 @@ export default function AboutPage() {
                             className="text-lg text-gray-700 space-y-6 leading-relaxed"
                         >
                             <p>
-                                Since our founding, Air Travel Booking has grown to become a trusted source for discounted international and domestic flights. We partner directly with major airlines, allowing us to secure exclusive deals that traditional booking sites often overlook. Our focus is simple: **deliver the best value, reliably and securely.**
+                                Since our founding, Airlines Ticket Booking has grown to become a trusted source for discounted international and domestic flights. We partner directly with major airlines, allowing us to secure exclusive deals that traditional booking sites often overlook. Our focus is simple: **deliver the best value, reliably and securely.**
                             </p>
                             <p>
                                 Our team of seasoned travel professionals works tirelessly to ensure every interaction, from the first search to landing at your destination, is seamless. We believe that booking a flight should be as exciting as the trip itself.
                             </p>
                             <p className="font-semibold text-teal-700">
-                                Travel more, pay less. That's the Air Travel Booking promise.
+                                Travel more, pay less. That's the Airlines Ticket Booking promise.
                             </p>
                         </motion.div>
                         <motion.img

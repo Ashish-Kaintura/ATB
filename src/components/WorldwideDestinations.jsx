@@ -128,7 +128,7 @@ export default function WorldwideDestinations() {
                 </motion.a>
             </div>
 
-            {/* ✈ Choosing Air Travel Booking Section */}
+            {/* ✈ Choosing Airlines Ticket Booking Section */}
             <div className="bg-white relative z-10 py-20 px-6 md:px-16 lg:px-24">
                 <div className="grid md:grid-cols-2 gap-10 items-center">
 
@@ -139,7 +139,7 @@ export default function WorldwideDestinations() {
                         transition={{ duration: 0.7 }}
                     >
                         <p className="italic text-gray-700 mb-2">
-                            Choosing Air Travel Booking
+                            Choosing Airlines Ticket Booking
                         </p>
 
                         <h2 className="text-3xl md:text-4xl font-extrabold mb-4 text-gray-900">
@@ -147,7 +147,7 @@ export default function WorldwideDestinations() {
                         </h2>
 
                         <p className="text-gray-600 mb-8 leading-relaxed">
-                            Finding great flight deals has never been this easy! With Air Travel Booking, you can explore worldwide destinations and book flights at unbeatable prices in just a few clicks. Whether you’re flying across the USA or to Europe and Canada, enjoy the lowest fares, flexible booking options, and trusted service—all in one place.
+                            Finding great flight deals has never been this easy! With Airlines Ticket Booking, you can explore worldwide destinations and book flights at unbeatable prices in just a few clicks. Whether you’re flying across the USA or to Europe and Canada, enjoy the lowest fares, flexible booking options, and trusted service—all in one place.
                         </p>
 
                         {/* BENEFITS GRID */}
